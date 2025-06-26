@@ -59,3 +59,6 @@ We get the following:
 4. Click on the dashboard created
 5. Add new widget accordingly while making sure each widget's datasource is from your device
 
+![image](https://github.com/user-attachments/assets/7a386e35-5492-4a47-a6ed-12fd07b8e2f5)
+
+
